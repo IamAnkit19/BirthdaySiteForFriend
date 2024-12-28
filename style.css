@@ -24,6 +24,7 @@ main{
     grid-template-columns: 1fr 2fr 1fr;
     /* background-image: url(images\ \(1\).jpeg); */
     background-image: url(photo_2024-12-28_12-22-21.jpg);
+    background-size: cover;
     height: 90vh;
 }
 
